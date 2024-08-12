@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.3.8",
+        "updateVersiyon": "1.4.8",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Medya player için bir kaç uzantı desteği sağlandı, Bazı bölümlerin stabil çalışması için iyileştirmeler yapıldı.....",
         "updateLink": "https://github.com/asdsplus/pro/raw/main/GolgeTV-PLUS-1.3.8.apk"
