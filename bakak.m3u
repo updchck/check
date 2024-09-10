@@ -1,0 +1,114 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="1" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NTIyMDAxMzU2MjEwZDFkY2NlMTI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="2" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDUzMDUxMzJlNjlmYzlkZGYwYjY=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="3" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 4K
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMTc2NTY1MTZlOTZkZDQ4NTRhNDg=
+
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="4" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",KANAL D
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2Nzc2Nzk2ODRiOWY0ZmFiMmNkYzU=
+
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="5" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",ATV
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIzMjUyNjEyODY5NDMyN2QyNDBjOWY=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="6" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",SHOW
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg3OTU4ODk2MDA2NmZkNGVjY2E5Mw==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="7" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",STAR
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxOTI5NzEyOTM1NTU5MzZhOGI3Yzc=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="8" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",NOW
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzOTg1MDQ5NjFmNDI0ZjBlY2M2NTU=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="21" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",24 KITCHEN
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMjk1MDQ4NDNhYTA1NWQzMzNlMDk=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="12" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",BBC EARTH
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIyMjg0OTY4NTY2ODdiMmZhMGIyMjI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="13" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",LOVE NATURE
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMzMDk0ODEyMzQ0MWI3NmRjZmMwZDI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="11" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",NAT GEO WILD
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzMjQxNjYxNjJmODM5MWE3Y2E2Mw==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="10" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",NATIONAL GEOGRAPHIC
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE4NDU2NjA2MzBiODE1ZTAxNGYxOGM=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="15" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",DISCOVERY CHANNEL
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzY5NTcwNTc3OGUyOTUxYTQ0MDhjZg==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="16" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",DISCOVERY IDX
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwOTU0MDQwNjBlMjYyMzViZjk5ZmI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="17" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",HISTORY
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQ2MTg5MzAyODhhMTlkMWM2YWVhNw==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="18" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",VIASAT HISTORY
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQyMDc0ODc1NjIyYzE4NTM0ZWVlZDc=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="20" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",DMAX
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5Lzg2OTkzNzM1MTEyMTdjNGI1YTU2Nw==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="19" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Belgesel",TLC
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzMyODE2NDE3ODY3MWUzYzAwYmZhZTg=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="13" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS HABER
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM5ODk5OTU1MzMxMjMzNGZlNTE5NmM=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="14" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 4K
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE1MzY3MzA2MjdlMzcwYTkxYThjM2Y=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="15" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 1
+https://ozweb.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMTM0NjIzOTg0M2RkZWRlOGZhYmM=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="16" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2OTQ2NjI0NzU2NTVmZmNiYTZiNDc=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="17" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 3
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0MTAxNjc1NjBmZDdiMmY0ZjQ2YmI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="18" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 4
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI5MzgyNjgzNTM3YmVlZGJiYzBiNGM=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="19" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",BEIN SPORTS 5
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM4MzE3NTc2MThmMjJiY2FjY2ZlOTI=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="20" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",TIVIBU SPOR 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1NjU5NzIzMzg0MTlkZDY0ZDNjMWE=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="21" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",TIVIBU SPOR 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3NDY2ODM4MTBkZGIxZDliYTdlMGQ=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="22" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",TIVIBU SPOR 3
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM3OTQ5MjQwNTA0YTNiMDU0ZTEyN2U=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="23" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",TIVIBU SPOR 4
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzEzNDMzMDMxNzAyN2U0Yzk4M2MzMjY=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="25" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",SPOR SMART 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE3NzE1MTEzOTdhOGYzZWZmMTBiY2I=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="26" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",SPOR SMART 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkxNjUzODg4OTI5Yjc4YjJlMmY1Mw==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="27" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPOR 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM0NTg2MzE0NjFjYmU1YjU4MGExNTk=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="28" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EUROSPOR 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzQxMTcyMjc5NjI1NDAwZDQxZTJiYmU=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="29" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",S SPORT 1
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIxMjMyNzM1OThmM2VhODMyMTk1MTY=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="30" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",S SPORT 2
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzkzNjkwODI3NDlmNmE4NmY4NTBjMQ==
+
+#EXTINF:-1 tvg-id="ext" tvg-name="31" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",EXXEN
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzM2NzMwMzcwNTQwZDc3MjNlMjhiNDQ=
+
+#EXTINF:-1 tvg-id="ext" tvg-name="32" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Spor",NBA TV
+https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzU0NTU0ODEzM2U1NmRjYzI2ZDk1OA==
