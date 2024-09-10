@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="1" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 1
-https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzE2NTIyMDAxMzU2MjEwZDFkY2NlMTI=
+#EXTINF:-1 tvg-id="ext" tvg-name="1" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",Tv8
+https://saran-live.ercdn.net/tv8/index.mpd?st=cmd6izJf8EEJO22yoUQwVw&e=1726014676
 
 #EXTINF:-1 tvg-id="ext" tvg-name="2" tvg-logo="https://i.hizliresim.com/gelqlt1.jpg" group-title="Ulusal",TRT 2
 https://ozweb.duckdns.org/cdn1/live/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzIwMDUzMDUxMzJlNjlmYzlkZGYwYjY=
