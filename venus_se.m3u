@@ -1,184 +1,204 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="Bein1" tvg-logo="" group-title="Bein",TR: Bein1 Reddom HD
-http://10gbt48cp256iiiiiiiiiiiiiiiiiiiiiiiiiiii189.securitytactics.com:8080/live/@vdtbdhsudye2652@/Gs38633837bdnxnxgsgsgsgsgsgsggs/32.m3u8?token=T0deAxULGghBVVIBCgZbUARXBwpXBwsNBQUHUAxXAVEFAQBVAAYJAVJAHRFKEUtTU1g6UFEVAgsAHUcRRlNDbV0BFFhEUQoLUFITHxsRUFtXF18JGRVIUVYTX0YHBAECBEcaQAMbTFcRDFBfZgFcQFtWABsPWU1UXh1HC1tpVVdZBFgGRFkaAkFOE1pKFRsMEHQTXFQXcVRXRQwXXFsRel0fWwcSD11ACkAdEVsMTURTQQAbDxUNCQIDR0gXVV5HWhFEG0RZGmYxQB0RXB1NU1xGDFZbFQIaXwIQXBcaE1tHOkQHFRdKVwIPVEEbXxsGEBlHVFRPZ1tdXwsBVkJYXVoWFFhEUggCQU4TXlYLUEJdRzpJXFMaAhADVFcBDhNP
-
 #EXTINF:-1 tvg-id="svt1.se" tvg-name="Se: SVT 1 HD" tvg-logo="http://www.vod-logo.net/photos/8b1deafdd3fd9a1afec48f2b95428217.jpg" group-title="Sweden",Se: SVT 1 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/5925
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/5925
 #EXTINF:-1 tvg-id="svt2.se" tvg-name="Se: SVT 2 HD" tvg-logo="http://www.vod-logo.net/photos/47c0d5c3106021aa743dfe8a3a55ac96.jpg" group-title="Sweden",Se: SVT 2 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/5927
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/5927
 #EXTINF:-1 tvg-id="tv3.se" tvg-name="Se: TV3 HD" tvg-logo="http://www.vod-logo.net/photos/d950325b4c080219abbd2921c94c7ac8.jpg" group-title="Sweden",Se: TV3 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8122
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8122
 #EXTINF:-1 tvg-id="tv4.se" tvg-name="Se: TV4 HD" tvg-logo="http://www.vod-logo.net/photos/8398a5bf51608c34cfdddc693e0471c2.jpg" group-title="Sweden",Se: TV4 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8121
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8121
 #EXTINF:-1 tvg-id="kanal5.se" tvg-name="Se: Kanal 5 HD" tvg-logo="http://www.vod-logo.net/photos/47812c1794fedd6375f97c2f2e7ce86b.jpg" group-title="Sweden",Se: Kanal 5 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13486
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13486
 #EXTINF:-1 tvg-id="tv6.se" tvg-name="Se: TV6 HD" tvg-logo="http://vod-logo.net/photos/bd8c324ca2a08d2e0bfb6c2b543d5e24.png" group-title="Sweden",Se: TV6 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/102884
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/102884
 #EXTINF:-1 tvg-id="sjuan.se" tvg-name="Se: Sjuan" tvg-logo="http://vod-logo.net/photos/99e6abb812b45c46dd41d08fa4362a21.png" group-title="Sweden",Se: Sjuan
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/125608
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/125608
 #EXTINF:-1 tvg-id="tv8.se" tvg-name="Se: TV8 HD" tvg-logo="http://vod-logo.net/photos/efa71e3d842e8d2b415ee74acd99f2fb.png" group-title="Sweden",Se: TV8 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/95604
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/95604
 #EXTINF:-1 tvg-id="kanal9.se" tvg-name="Se: Kanal 9 HD" tvg-logo="http://www.vod-logo.net/photos/b7c76c6bc61fc92c1f89ee1d9e315bbc.jpg" group-title="Sweden",Se: Kanal 9 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13485
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13485
 #EXTINF:-1 tvg-id="tv10.se" tvg-name="Se: TV10 HD" tvg-logo="http://www.vod-logo.net/photos/61430646e5bf3e726bf0118b266deace.jpg" group-title="Sweden",Se: TV10 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8124
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8124
 #EXTINF:-1 tvg-id="kanal11.se" tvg-name="Se: Kanal 11 HD" tvg-logo="http://www.vod-logo.net/photos/b92402d2238903653641ed79e1134264.jpg" group-title="Sweden",Se: Kanal 11 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13488
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13488
 #EXTINF:-1 tvg-id="tv12.se" tvg-name="Se: TV12 HD" tvg-logo="http://www.vod-logo.net/photos/2a5acd855e90421dffaa88ec432ddfd6.jpg" group-title="Sweden",Se: TV12 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8125
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8125
 #EXTINF:-1 tvg-id="tlc.se" tvg-name="Se: TLC HD" tvg-logo="http://www.vod-logo.net/photos/6a2fd28bbb9a5720e61348235d05cd53.jpg" group-title="Sweden",Se: TLC HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67474
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67474
 #EXTINF:-1 tvg-id="godare.se" tvg-name="Se: Godare HD" tvg-logo="" group-title="Sweden",Se: Godare HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67472
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67472
 #EXTINF:-1 tvg-id="tv4film.se" tvg-name="Se: TV4 Film HD" tvg-logo="" group-title="Sweden",Se: TV4 Film HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67476
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67476
 #EXTINF:-1 tvg-id="tv4guld.se" tvg-name="Se: TV4 Guld HD" tvg-logo="http://vod-logo.net/photos/f98f363f4822325820292a0cc060574c.png" group-title="Sweden",Se: TV4 Guld HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13482
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13482
 #EXTINF:-1 tvg-id="tv4fakta.se" tvg-name="Se: TV4 Fakta" tvg-logo="http://vod-logo.net/photos/4580301911592a13b0f8b375db88f506.png" group-title="Sweden",Se: TV4 Fakta
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8120
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8120
 #EXTINF:-1 tvg-id="sfkanalen.se" tvg-name="Se: SF Kanalen" tvg-logo="http://www.vod-logo.net/photos/098439c63b6c1954b1cc2e089c5f29a2.jpg" group-title="Sweden",Se: SF Kanalen
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/11138
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/11138
 #EXTINF:-1 tvg-id="" tvg-name="Se: SVT Kunskapskanalen HD" tvg-logo="http://vod-logo.net/photos/175ebfcebffb3553f5f731eee33a83b7.png" group-title="Sweden",Se: SVT Kunskapskanalen HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/122499
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122499
 #EXTINF:-1 tvg-id="svt24.se" tvg-name="Se: SVT 24 HD" tvg-logo="http://www.vod-logo.net/photos/c703812470ecf8f034f5f47511be3a0c.jpg" group-title="Sweden",Se: SVT 24 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8250
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8250
 #EXTINF:-1 tvg-id="atglive.se" tvg-name="Se: ATG Live" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/72/ae/73/72ae73df-c72a-7666-fcfa-55b05533e607/source/512x512bb.jpg" group-title="Sweden",Se: ATG Live
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/72889
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/72889
 #EXTINF:-1 tvg-id="" tvg-name="Se: EXPRESSEN TV HD" tvg-logo="http://vod-logo.net/photos/febfa6a3403b572b92d42b429c16b70f.png" group-title="Sweden",Se: EXPRESSEN TV HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/122497
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122497
 #EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="Se: BBC Nordic HD" tvg-logo="https://cms.bbcnordic.com/sites/default/files/2023-03/Frame%20187.png" group-title="Sweden",Se: BBC Nordic HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8126
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8126
 #EXTINF:-1 tvg-id="" tvg-name="Se: Discovery ID HD" tvg-logo="http://vod-logo.net/photos/f620314e40483f447a576cd1559fb0d5.png" group-title="Sweden",Se: Discovery ID HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/169031
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/169031
 #EXTINF:-1 tvg-id="discoverychannel.se" tvg-name="Se: Discovery Channel HD" tvg-logo="http://www.vod-logo.net/photos/1893a037baccadce6d502c6d1dc1f49d.png" group-title="Sweden",Se: Discovery Channel HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13492
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13492
 #EXTINF:-1 tvg-id="discoveryscience.se" tvg-name="Se: Discovery Science HD" tvg-logo="http://vod-logo.net/photos/730ae3b30f5c1d9e6b6443854f248015.png" group-title="Sweden",Se: Discovery Science HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13491
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13491
 #EXTINF:-1 tvg-id="natgeo.se" tvg-name="Se: Nat Geo HD" tvg-logo="http://www.vod-logo.net/photos/286bcee8579c2ac48c056e811c051524.jpg" group-title="Sweden",Se: Nat Geo HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67465
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67465
 #EXTINF:-1 tvg-id="natgeowild.se" tvg-name="Se: Nat Geo Wild HD" tvg-logo="http://www.vod-logo.net/photos/699edfa82550dc3b37bc1c7db976234b.jpg" group-title="Sweden",Se: Nat Geo Wild HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67464
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67464
 #EXTINF:-1 tvg-id="animalplanet.se" tvg-name="Se: Animal Planet HD" tvg-logo="http://www.vod-logo.net/photos/d0d2b8959e111eb667f25fdaa183a98a.jpg" group-title="Sweden",Se: Animal Planet HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/54610
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/54610
 #EXTINF:-1 tvg-id="history.se" tvg-name="Se: History HD" tvg-logo="http://www.vod-logo.net/photos/6ec2301930109ebd0df73a7a68e26357.jpg" group-title="Sweden",Se: History HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67466
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67466
 #EXTINF:-1 tvg-id="h2.se" tvg-name="Se: H2" tvg-logo="http://www.vod-logo.net/photos/68ef5ef4bf905d4b21a0f43977542648.JPG" group-title="Sweden",Se: H2
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/139924
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/139924
 #EXTINF:-1 tvg-id="investigationdiscovery.se" tvg-name="Se: Investigation Discovery ID HD" tvg-logo="http://www.vod-logo.net/photos/76d8022f58e478b49f24a145f3f8149f.jpg" group-title="Sweden",Se: Investigation Discovery ID HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67469
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67469
 #EXTINF:-1 tvg-id="disneychannel.se" tvg-name="Se: Disney Channel HD" tvg-logo="http://www.vod-logo.net/photos/c9c6afef702accfdae08d7239bd8d080.JPG" group-title="Sweden",Se: Disney Channel HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8161
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8161
 #EXTINF:-1 tvg-id="disneyjunior.se" tvg-name="Se: Disney Junior HD" tvg-logo="http://vod-logo.net/photos/0e2f704d935f99f8a76ee1dfeaf94f57.jpg" group-title="Sweden",Se: Disney Junior HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8131
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8131
 #EXTINF:-1 tvg-id="boomerang.se" tvg-name="Se: Boomerang HD" tvg-logo="http://www.vod-logo.net/photos/0e8fbd8fba4d33457f77e09ce76c90d0.jpg" group-title="Sweden",Se: Boomerang HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8132
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8132
 #EXTINF:-1 tvg-id="nicktoons.se" tvg-name="Se: NickToons HD" tvg-logo="http://www.vod-logo.net/photos/caf4416967dcdcc32cb6698df387b29c.jpg" group-title="Sweden",Se: NickToons HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/28732
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/28732
 #EXTINF:-1 tvg-id="nickjr.se" tvg-name="Se: Nick Jr. HD" tvg-logo="http://www.vod-logo.net/photos/74e72cc046c8272bd32d874dc1721264.jpg" group-title="Sweden",Se: Nick Jr. HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/11147
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/11147
 #EXTINF:-1 tvg-id="cartoonnetwork.se" tvg-name="Se: Cartoon Network HD" tvg-logo="http://www.vod-logo.net/photos/918ed66fc55bb226ff2c85716da1c90c.jpg" group-title="Sweden",Se: Cartoon Network HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/11142
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/11142
 #EXTINF:-1 tvg-id="" tvg-name="Se: CNBC" tvg-logo="http://vod-logo.net/photos/bc82ba369656e19186dd52cd54b49e60.jpg" group-title="Sweden",Se: CNBC
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/169033
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/169033
 #EXTINF:-1 tvg-id="" tvg-name="Se: CNN" tvg-logo="http://vod-logo.net/photos/e94cab3b83e4585f983a29b459d59ac4.png" group-title="Sweden",Se: CNN
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/169035
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/169035
 #EXTINF:-1 tvg-id="" tvg-name="Se: TV4 Sportkanalen" tvg-logo="" group-title="Sweden",Se: TV4 Sportkanalen
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/169032
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/169032
 #EXTINF:-1 tvg-id="horseandcountry.se" tvg-name="Se: Horse & Country" tvg-logo="http://vod-logo.net/photos/f267267802e145635b41d03d4f7abf16.png" group-title="Sweden",Se: Horse & Country
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/139923
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/139923
 #EXTINF:-1 tvg-id="paramountplusseries.se" tvg-name="Se: Paramount+ Series" tvg-logo="" group-title="Sweden",Se: Paramount+ Series
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/302900
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/302900
 #EXTINF:-1 tvg-id="bbcbrit.se" tvg-name="Se: Paramount Network" tvg-logo="http://vod-logo.net/photos/f216706ff72964368422edfe543fca86.png" group-title="Sweden",Se: Paramount Network
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/139925
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/139925
 #EXTINF:-1 tvg-id="mtv.se" tvg-name="Se: MTV HD" tvg-logo="https://img.favpng.com/9/7/3/mtv-live-hd-television-channel-logo-tv-png-favpng-E36TJZKC57Jg5NF6fHFUBknfW.jpg" group-title="Sweden",Se: MTV HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/11164
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/11164
 #EXTINF:-1 tvg-id="nickelodeon.se" tvg-name="Se: Nickelodeon HD" tvg-logo="http://www.vod-logo.net/photos/9fc794edf45f82c0efcc0f794f62b1e9.jpg" group-title="Sweden",Se: Nickelodeon HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/293430
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/293430
 #EXTINF:-1 tvg-id="kunskapskanalen.se" tvg-name="Se: Kunskapskanalen HD" tvg-logo="http://www.vod-logo.net/photos/764b5fdc5f6c5287198f6c51cf8dd9c5.jpg" group-title="Sweden",Se: Kunskapskanalen HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/11157
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/11157
 #EXTINF:-1 tvg-id="tv3sport.se" tvg-name="Se: TV3 Sport HD" tvg-logo="http://www.vod-logo.net/photos/7db1d90e3a7633e2e231905af8aaaf6e.jpg" group-title="Sweden",Se: TV3 Sport HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33537
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33537
 #EXTINF:-1 tvg-id="tv3.se" tvg-name="Se: TV3 Sport (DK)" tvg-logo="" group-title="Sweden",Se: TV3 Sport (DK)
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/319014
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/319014
 #EXTINF:-1 tvg-id="" tvg-name="Se: Sport Kanalen HD" tvg-logo="http://www.vod-logo.net/photos/908b49672c19b887716a849950a2430a.jpg" group-title="Sweden",Se: Sport Kanalen HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13520
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13520
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 1" tvg-logo="" group-title="Sweden",se: Viaplay 1
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821504
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821504
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 2" tvg-logo="" group-title="Sweden",se: Viaplay 2
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821505
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821505
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 3" tvg-logo="" group-title="Sweden",se: Viaplay 3
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821506
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821506
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 4" tvg-logo="" group-title="Sweden",se: Viaplay 4
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821507
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821507
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 5" tvg-logo="" group-title="Sweden",se: Viaplay 5
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821508
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821508
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 6" tvg-logo="" group-title="Sweden",se: Viaplay 6
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821509
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821509
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 7" tvg-logo="" group-title="Sweden",se: Viaplay 7
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821510
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821510
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 8" tvg-logo="" group-title="Sweden",se: Viaplay 8
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821511
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821511
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 9" tvg-logo="" group-title="Sweden",se: Viaplay 9
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821512
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821512
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 10" tvg-logo="" group-title="Sweden",se: Viaplay 10
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821513
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821513
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 11" tvg-logo="" group-title="Sweden",se: Viaplay 11
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821514
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821514
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 12" tvg-logo="" group-title="Sweden",se: Viaplay 12
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821515
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821515
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 13" tvg-logo="" group-title="Sweden",se: Viaplay 13
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821516
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821516
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 14" tvg-logo="" group-title="Sweden",se: Viaplay 14
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821517
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821517
 #EXTINF:-1 tvg-id="" tvg-name="se: Viaplay 15" tvg-logo="" group-title="Sweden",se: Viaplay 15
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/821518
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/821518
 #EXTINF:-1 tvg-id="viasatnature.se" tvg-name="Se: Viasat Nature HD" tvg-logo="http://vod-logo.net/photos/dd967fb604529e05b0d2944bbef6fc03.jpg" group-title="Sweden",Se: Viasat Nature HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8114
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8114
 #EXTINF:-1 tvg-id="viasathistory.se" tvg-name="Se: Viasat History HD" tvg-logo="http://www.vod-logo.net/photos/3c3a20d99683dbf78af3dbf06e3ad6f0.png" group-title="Sweden",Se: Viasat History HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8115
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8115
 #EXTINF:-1 tvg-id="cmorehits.se" tvg-name="Se: C More Hits HD" tvg-logo="http://www.vod-logo.net/photos/3b48c3d6f0730c9a26b2059f04280763.jpg" group-title="Sweden",Se: C More Hits HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/7163
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/7163
 #EXTINF:-1 tvg-id="cmorefirst.se" tvg-name="Se: C More First HD" tvg-logo="http://www.vod-logo.net/photos/d5c836abf07024c0a5ec7979f1ac4cbb.jpg" group-title="Sweden",Se: C More First HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/7164
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/7164
 #EXTINF:-1 tvg-id="cmorestars.se" tvg-name="Se: C More Stars HD" tvg-logo="http://www.vod-logo.net/photos/d8a2a55f95ebf5f9d08618218b8474d7.jpg" group-title="Sweden",Se: C More Stars HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/8144
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/8144
 #EXTINF:-1 tvg-id="cmoreseries.se" tvg-name="Se: C More Series HD" tvg-logo="http://www.vod-logo.net/photos/fc8fd93a71f4e1dfa2cd0c2f9e0fb71b.jpg" group-title="Sweden",Se: C More Series HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/7162
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/7162
 #EXTINF:-1 tvg-id="viasatfilmaction.se" tvg-name="Se: Viasat Film Action" tvg-logo="http://vod-logo.net/photos/d1654c849de736be2ae12b8324a41e15.png" group-title="Sweden",Se: Viasat Film Action
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/122512
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122512
 #EXTINF:-1 tvg-id="viasatfilmhits.se" tvg-name="Se: Viasat Film Hits HD" tvg-logo="http://vod-logo.net/photos/dc9dc6d89c5fbb2e380584bf29503b88.png" group-title="Sweden",Se: Viasat Film Hits HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/67470
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/67470
 #EXTINF:-1 tvg-id="viasatfilmpremiere.se" tvg-name="Se: Viasat Film Premiere HD" tvg-logo="http://www.vod-logo.net/photos/c4bc3aa83bbeb388ed02b3424bc51c09.jpg" group-title="Sweden",Se: Viasat Film Premiere HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13516
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13516
 #EXTINF:-1 tvg-id="viasatfilmfamily.se" tvg-name="Se: Viasat Film Family" tvg-logo="http://vod-logo.net/photos/a8b78c48acd0e1de53e341914bcc4f66.png" group-title="Sweden",Se: Viasat Film Family
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/122513
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122513
 #EXTINF:-1 tvg-id="" tvg-name="Se: Viasat Sport Extra HD" tvg-logo="" group-title="Sweden",Se: Viasat Sport Extra HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/319013
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/319013
 #EXTINF:-1 tvg-id="" tvg-name="Se: MovieTime Fast & Furious FHD" tvg-logo="http://vod-logo.net/photos/8e3f067c80c203348b4f90e0912fff83.png" group-title="Sweden",Se: MovieTime Fast & Furious FHD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/122493
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122493
 #EXTINF:-1 tvg-id="" tvg-name="Se: C More Sport" tvg-logo="http://vod-logo.net/photos/e20b6f1d7698e18686c727c2be08e5e3.png" group-title="Sweden",Se: C More Sport
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/139926
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/139926
 #EXTINF:-1 tvg-id="cmorelive.se" tvg-name="Se: C More Live 1 HD" tvg-logo="http://www.vod-logo.net/photos/add22364f179ceee96efd9bb5081c06a.jpg" group-title="Sweden",Se: C More Live 1 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/10614
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/10614
 #EXTINF:-1 tvg-id="cmorelive2.se" tvg-name="Se: C More Live 2 HD" tvg-logo="http://www.vod-logo.net/photos/7668121b2cb86711285fe3a62f2d0168.jpg" group-title="Sweden",Se: C More Live 2 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/10613
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/10613
 #EXTINF:-1 tvg-id="cmorelive3.se" tvg-name="Se: C More Live 3 HD" tvg-logo="http://www.vod-logo.net/photos/4c00423cfe91378a582be46c3a31cb41.jpg" group-title="Sweden",Se: C More Live 3 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/10612
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/10612
 #EXTINF:-1 tvg-id="cmorelive4.se" tvg-name="Se: C More Live 4 HD" tvg-logo="http://www.vod-logo.net/photos/6c5706655118296be167c6dcd5dbea60.jpg" group-title="Sweden",Se: C More Live 4 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/10611
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/10611
 #EXTINF:-1 tvg-id="cmorelive5.se" tvg-name="Se: C More Live 5 HD" tvg-logo="http://www.vod-logo.net/photos/c66a3adcf0d1ddde41425bb0b0da4622.jpg" group-title="Sweden",Se: C More Live 5 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/13508
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/13508
 #EXTINF:-1 tvg-id="cmoregolf.se" tvg-name="Se: C More Golf HD" tvg-logo="http://www.vod-logo.net/photos/38485ee3ccb73ee8a1cc87e97ad21895.jpg" group-title="Sweden",Se: C More Golf HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33535
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33535
 #EXTINF:-1 tvg-id="cmorehockey.se" tvg-name="Se: C More Hockey HD" tvg-logo="http://www.vod-logo.net/photos/68ad5525cd955b0f235c9d44356e60a1.jpg" group-title="Sweden",Se: C More Hockey HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33536
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33536
 #EXTINF:-1 tvg-id="cmorefotboll.se" tvg-name="Se: C More Fotboll HD" tvg-logo="http://www.vod-logo.net/photos/0f4c1a2a37ac8f28bc5d33025ccdae0c.jpg" group-title="Sweden",Se: C More Fotboll HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33647
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33647
 #EXTINF:-1 tvg-id="eurosport.se" tvg-name="Se: EuroSport 1 HD" tvg-logo="http://www.vod-logo.net/photos/ccf3ef964c2be9790aa396ac9c165579.jpg" group-title="Sweden",Se: EuroSport 1 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33646
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33646
 #EXTINF:-1 tvg-id="eurosport2.se" tvg-name="Se: EuroSport 2 HD" tvg-logo="http://www.vod-logo.net/photos/1172255e540f09f2647859b2caefa2a5.jpg" group-title="Sweden",Se: EuroSport 2 HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33648
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33648
 #EXTINF:-1 tvg-id="" tvg-name="Se: Viasat Fotboll HD" tvg-logo="http://www.vod-logo.net/photos/20ceea943db63b878fa510873ee9b1a9.jpg" group-title="Sweden",Se: Viasat Fotboll HD
-http://pro-apk.net:8080/84229351271495/28945416350306AZxc/33538
-#EXTINF:-1 t
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33538
+#EXTINF:-1 tvg-id="viasatsport.se" tvg-name="Se: Viasat Sport HD" tvg-logo="http://www.vod-logo.net/photos/116640cc0087190d4036277eab5849fb.jpg" group-title="Sweden",Se: Viasat Sport HD
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33542
+#EXTINF:-1 tvg-id="viasatsportpremium.se" tvg-name="Se: Viasat Sport Premium HD" tvg-logo="http://www.vod-logo.net/photos/8c75c148f70b9dee3892261851a15554.jpg" group-title="Sweden",Se: Viasat Sport Premium HD
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33543
+#EXTINF:-1 tvg-id="viasatgolf.se" tvg-name="Se: Viasat Golf HD" tvg-logo="http://www.vod-logo.net/photos/97d6cc8a98a3169f5bd5a5fb9c51c714.jpg" group-title="Sweden",Se: Viasat Golf HD
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33539
+#EXTINF:-1 tvg-id="viasathockey.se" tvg-name="Se: Viasat Hockey HD" tvg-logo="http://www.vod-logo.net/photos/f6d649bac428efe19eba8921581a3c1f.jpg" group-title="Sweden",Se: Viasat Hockey HD
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33540
+#EXTINF:-1 tvg-id="viasatmotor.se" tvg-name="Se: Viasat Motor HD" tvg-logo="http://www.vod-logo.net/photos/1bb74a1ad878aed7fa5dc0891b18f656.jpg" group-title="Sweden",Se: Viasat Motor HD
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/33541
+#EXTINF:-1 tvg-id="viasatexplorer.se" tvg-name="SE: Viasat Explore" tvg-logo="" group-title="Sweden",SE: Viasat Explore
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/196794
+#EXTINF:-1 tvg-id="viasatseries.se" tvg-name="Se: VIASAT SERIES" tvg-logo="http://vod-logo.net/photos/22322e08f9d77a82a8de4106e122ef28.jpg" group-title="Sweden",Se: VIASAT SERIES
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122514
+#EXTINF:-1 tvg-id="" tvg-name="Se: SPORT EXPRESSEN HD [ Live Events ]" tvg-logo="" group-title="Sweden",Se: SPORT EXPRESSEN HD [ Live Events ]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/122483
+#EXTINF:-1 tvg-id="" tvg-name="Se: Discovery+ 1 FHD [Live Events]" tvg-logo="" group-title="Sweden",Se: Discovery+ 1 FHD [Live Events]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/176466
+#EXTINF:-1 tvg-id="" tvg-name="Se: Discovery+ 2 FHD [Live Events]" tvg-logo="" group-title="Sweden",Se: Discovery+ 2 FHD [Live Events]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/176467
+#EXTINF:-1 tvg-id="" tvg-name="Se: Discovery+ 3 FHD [Live Events]" tvg-logo="" group-title="Sweden",Se: Discovery+ 3 FHD [Live Events]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/176468
+#EXTINF:-1 tvg-id="" tvg-name="Se: Discovery+ 4 FHD [Live Events]" tvg-logo="" group-title="Sweden",Se: Discovery+ 4 FHD [Live Events]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/176469
+#EXTINF:-1 tvg-id="" tvg-name="Se: Discovery+ 5 FHD [Live Events]" tvg-logo="" group-title="Sweden",Se: Discovery+ 5 FHD [Live Events]
+http://pro-apk.net:8080/SHOPPINGDIGITAL/FgHRcqdEjR/176470
